@@ -3,7 +3,7 @@
 
 - 📨 I'm from Brasil 
 - 🔭 Nowadays, I develop Front and Back-end projects. 
-- 🌱 Actually, I study NodeJS ...
+- 🌱 Actually, I study NodeJS and Java ...
 
 <div>
  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=FelippeSobral&show_icons=true&theme=radical">
